@@ -4,7 +4,6 @@
     <groupId>com.iqmsoft</groupId>
     <artifactId>SpringMvcScalaWeb</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <inceptionYear>2008</inceptionYear>
     <packaging>war</packaging>
     <properties>
         <scala.version>2.10.1</scala.version>
